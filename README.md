@@ -12,6 +12,6 @@
 
 
 **Uygulama Resimleri**
-![](img/sk1.png)
-![](img/sk2.png)
-![](img/sk3.png)
+-![](img/sk1.png)
+-![](img/sk2.png)
+-![](img/sk3.png)
